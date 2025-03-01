@@ -1,4 +1,3 @@
-```markdown
 # CNN Cats vs Dogs Project
 
 This project demonstrates a hands-on approach to building and evaluating a Convolutional Neural Network (CNN) for classifying images from the Microsoft Cats vs Dogs dataset. The focus is on understanding the inner workings of CNNs through practical implementation, training, and analysis.
@@ -92,4 +91,3 @@ Contributions, suggestions, and improvements are welcome. Feel free to open issu
 ## License
 
 This project is licensed under the MIT License.
-```
