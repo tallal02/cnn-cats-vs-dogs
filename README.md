@@ -6,7 +6,7 @@ This project demonstrates a hands-on approach to building and evaluating a Convo
 
 - **Dataset Preparation:**  
   Download and preprocess a subset of the Microsoft Cats vs Dogs dataset. In this example, you will work with a dataset containing 6,000 images of cats and 6,000 images of dogs, organized in separate folders.  
-  **Dataset Link:** Download the dataset from Kaggle at [Microsoft Cats vs Dogs on Kaggle]([https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset).
+  **Dataset Link:** Download the dataset from Kaggle at [Microsoft Cats vs Dogs on Kaggle](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset).
 
 - **CNN Model Development:**  
   Create a CNN using convolutional, activation, pooling, and fully connected layers to perform image classification.
