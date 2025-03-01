@@ -1,5 +1,5 @@
 ```markdown
-# CNN Cats vs Dogs Project
+#CNN Cats vs Dogs Project
 
 This project demonstrates a hands-on approach to building and evaluating a Convolutional Neural Network (CNN) for image classification using the Cats vs Dogs dataset. The dataset includes a folder with 6,000 images of cats and another with 6,000 images of dogs.
 
