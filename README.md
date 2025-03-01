@@ -21,7 +21,7 @@ This project demonstrates a hands-on approach to building and evaluating a Convo
   Visualize sample images along with training and testing error/accuracy curves. Evaluate various performance metrics to gain insights into the model's behavior.
 
 
-##Clone the Repository:**
+## Clone the Repository:
 
    ```bash
    git clone https://github.com/tallal02/cnn-cats-vs-dogs-assignment.git
